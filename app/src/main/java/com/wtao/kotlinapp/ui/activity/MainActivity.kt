@@ -1,7 +1,8 @@
-package com.wtao.kotlinapp
+package com.wtao.kotlinapp.ui.activity
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.wtao.kotlinapp.R
 
 class MainActivity : AppCompatActivity() {
 
